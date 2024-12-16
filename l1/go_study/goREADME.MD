@@ -2,6 +2,7 @@
 ![alt text](image-1.png)
 
 ### 1.环境安装
+创建目录
 
 **go build hello**
 
